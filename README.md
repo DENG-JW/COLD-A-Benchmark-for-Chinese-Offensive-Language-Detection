@@ -1,4 +1,3 @@
-# COLD-A-Benchmark-for-Chinese-Offensive-Language-Detection
 
 We present COLDATASET, a Chinese dataset containing in total 37k sentences with labels of whether it is offensive or not. 
 It covers the topics of racial, gender, and regional bias.
